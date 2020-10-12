@@ -1,1 +1,1 @@
-# stock_Technical
+# stock_technical
